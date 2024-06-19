@@ -4,3 +4,6 @@ Users can input text into a textarea, select a voice from available options, and
 FEATURES
 1.  text to speech conversion.
 2.  Voice selection from available options.
+
+LINK FOR THE PROJECT
+https://text-to-speech-converter-lake-nine.vercel.app/
