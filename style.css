@@ -77,13 +77,13 @@ h1{
      font-size:4vh;
 },
     textarea{
-        width:90vw,
+        width:90vw;
             },
     .row{
          margin-left: 0;
     width:90vw;
     },
     button{
-        width:28vw,
+        width:28vw;
     }
 }
