@@ -70,3 +70,20 @@ select{
     background-color: rgb(80, 80, 135);
 
 }
+
+
+@media (max-width: 600px) {
+h1{
+     font-size:4vh;
+},
+    textarea{
+        width:90vw,
+            },
+    .row{
+         margin-left: 0;
+    width:90vw;
+    },
+    button{
+        width:28vw,
+    }
+}
